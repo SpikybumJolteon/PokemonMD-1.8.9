@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "pokemonmd:blocks/rawstettaberryplant/rawstettaberryplant_stage2"
+    }
+}

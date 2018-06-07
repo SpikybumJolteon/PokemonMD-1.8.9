@@ -1,0 +1,13 @@
+{
+    "parent": "block/cube",
+    "textures": 
+    {
+        "particle": "pokemonmd:blocks/xelnagatechblock/xelnagatechblockup",
+        "up": "pokemonmd:blocks/xelnagatechblock/xelnagatechblockup",
+        "down": "pokemonmd:blocks/xelnagatechblock/xelnagatechblockdown",
+        "north": "pokemonmd:blocks/xelnagatechblock/xelnagatechblocknorth",
+        "east": "pokemonmd:blocks/xelnagatechblock/xelnagatechblockeast",
+        "south": "pokemonmd:blocks/xelnagatechblock/xelnagatechblocksouth",
+        "west": "pokemonmd:blocks/xelnagatechblock/xelnagatechblockwest"
+    }
+}

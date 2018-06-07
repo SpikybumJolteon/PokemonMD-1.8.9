@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "pokemonmd:xelnagatechblock" },
+        "facing=south": { "model": "pokemonmd:xelnagatechblock", "y": 180 },
+        "facing=west":  { "model": "pokemonmd:xelnagatechblock", "y": 270 },
+        "facing=east":  { "model": "pokemonmd:xelnagatechblock", "y": 90 }
+    }
+}

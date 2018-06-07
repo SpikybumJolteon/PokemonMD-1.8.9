@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "pokemonmd:blocks/colbertaberryplant/colbertaberryplant_stage2"
+    }
+}

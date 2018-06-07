@@ -1,0 +1,1397 @@
+{
+"effects.deminizer":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "effects/deminizer1"
+        ]
+    },
+"mob.armoredluxray.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/armoredluxray/death1",
+            "mob/armoredluxray/death2"
+        ]
+    },
+"mob.armoredluxray.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/armoredluxray/hurt1",
+            "mob/armoredluxray/hurt2",
+            "mob/armoredluxray/hurt3"
+        ]
+    },
+"mob.armoredluxray.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/armoredluxray/living1",
+            "mob/armoredluxray/living2",
+            "mob/armoredluxray/living3"
+        ]
+    },
+"mob.armoredshinx.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/armoredshinx/death1",
+            "mob/armoredshinx/death2"
+        ]
+    },
+"mob.armoredshinx.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/armoredshinx/hurt1",
+            "mob/armoredshinx/hurt2",
+            "mob/armoredshinx/hurt3"
+        ]
+    },
+"mob.armoredshinx.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/armoredshinx/living1",
+            "mob/armoredshinx/living2",
+            "mob/armoredshinx/living3"
+        ]
+    },
+"mob.bandersnatchfennekin.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/bandersnatchfennekin/death1",
+            "mob/bandersnatchfennekin/death2"
+        ]
+    },
+"mob.bandersnatchfennekin.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/bandersnatchfennekin/hurt1",
+            "mob/bandersnatchfennekin/hurt2",
+            "mob/bandersnatchfennekin/hurt3"
+        ]
+    },
+"mob.bandersnatchfennekin.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/bandersnatchfennekin/living1",
+            "mob/bandersnatchfennekin/living2",
+            "mob/bandersnatchfennekin/living3"
+        ]
+    },
+"mob.bloodmoonninetales.attack":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/bloodmoonninetales/attack1",
+            "mob/bloodmoonninetales/attack2",
+            "mob/bloodmoonninetales/attack3",
+            "mob/bloodmoonninetales/attack4"
+        ]
+    },
+"mob.bloodmoonninetales.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/bloodmoonninetales/death1"
+        ]
+    },
+"mob.bloodmoonninetales.exertself":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/bloodmoonninetales/exertself1"
+        ]
+    },
+"mob.bloodmoonninetales.gasp":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/bloodmoonninetales/gasp1",
+            "mob/bloodmoonninetales/gasp2"
+        ]
+    },
+"mob.bloodmoonninetales.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/bloodmoonninetales/hurt1",
+            "mob/bloodmoonninetales/hurt2",
+            "mob/bloodmoonninetales/hurt3"
+        ]
+    },
+"mob.bloodmoonninetales.laugh":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/bloodmoonninetales/laugh1",
+            "mob/bloodmoonninetales/laugh2",
+            "mob/bloodmoonninetales/laugh3"
+        ]
+    },
+"mob.claycommanderdelcatty.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claycommanderdelcatty/death1",
+            "mob/claycommanderdelcatty/death2"
+        ]
+    },
+"mob.claycommanderdelcatty.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claycommanderdelcatty/hurt1",
+            "mob/claycommanderdelcatty/hurt2",
+            "mob/claycommanderdelcatty/hurt3"
+        ]
+    },
+"mob.claycommanderdelcatty.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claycommanderdelcatty/living1",
+            "mob/claycommanderdelcatty/living2",
+            "mob/claycommanderdelcatty/living3"
+        ]
+    },
+"mob.claycommanderliepard.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claycommanderliepard/death1",
+            "mob/claycommanderliepard/death2"
+        ]
+    },
+"mob.claycommanderliepard.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claycommanderliepard/hurt1",
+            "mob/claycommanderliepard/hurt2",
+            "mob/claycommanderliepard/hurt3"
+        ]
+    },
+"mob.claycommanderliepard.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claycommanderliepard/living1",
+            "mob/claycommanderliepard/living2",
+            "mob/claycommanderliepard/living3"
+        ]
+    },
+"mob.claycommandermeowsticmale.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claycommandermeowsticmale/death1",
+            "mob/claycommandermeowsticmale/death2"
+        ]
+    },
+"mob.claycommandermeowsticmale.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claycommandermeowsticmale/hurt1",
+            "mob/claycommandermeowsticmale/hurt2",
+            "mob/claycommandermeowsticmale/hurt3"
+        ]
+    },
+"mob.claycommandermeowsticmale.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claycommandermeowsticmale/living1",
+            "mob/claycommandermeowsticmale/living2",
+            "mob/claycommandermeowsticmale/living3"
+        ]
+    },
+"mob.clayespurr.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayespurr/death1",
+            "mob/clayespurr/death2"
+        ]
+    },
+"mob.clayespurr.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayespurr/hurt1",
+            "mob/clayespurr/hurt2",
+            "mob/clayespurr/hurt3"
+        ]
+    },
+"mob.clayespurr.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayespurr/living1",
+            "mob/clayespurr/living2",
+            "mob/clayespurr/living3"
+        ]
+    },
+"mob.claylitten.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claylitten/death1",
+            "mob/claylitten/death2"
+        ]
+    },
+"mob.claylitten.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claylitten/hurt1",
+            "mob/claylitten/hurt2",
+            "mob/claylitten/hurt3"
+        ]
+    },
+"mob.claylitten.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claylitten/living1",
+            "mob/claylitten/living2",
+            "mob/claylitten/living3"
+        ]
+    },
+"mob.clayluxio.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayluxio/death1",
+            "mob/clayluxio/death2"
+        ]
+    },
+"mob.clayluxio.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayluxio/hurt1",
+            "mob/clayluxio/hurt2",
+            "mob/clayluxio/hurt3"
+        ]
+    },
+"mob.clayluxio.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayluxio/living1",
+            "mob/clayluxio/living2",
+            "mob/clayluxio/living3"
+        ]
+    },
+"mob.claymeowth.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claymeowth/death1",
+            "mob/claymeowth/death2"
+        ]
+    },
+"mob.claymeowth.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claymeowth/hurt1",
+            "mob/claymeowth/hurt2",
+            "mob/claymeowth/hurt3"
+        ]
+    },
+"mob.claymeowth.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claymeowth/living1",
+            "mob/claymeowth/living2",
+            "mob/claymeowth/living3"
+        ]
+    },
+"mob.claypurrloin.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claypurrloin/death1",
+            "mob/claypurrloin/death2"
+        ]
+    },
+"mob.claypurrloin.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claypurrloin/hurt1",
+            "mob/claypurrloin/hurt2",
+            "mob/claypurrloin/hurt3"
+        ]
+    },
+"mob.claypurrloin.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/claypurrloin/living1",
+            "mob/claypurrloin/living2",
+            "mob/claypurrloin/living3"
+        ]
+    },
+"mob.clayshinx.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayshinx/death1",
+            "mob/clayshinx/death2"
+        ]
+    },
+"mob.clayshinx.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayshinx/hurt1",
+            "mob/clayshinx/hurt2",
+            "mob/clayshinx/hurt3"
+        ]
+    },
+"mob.clayshinx.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayshinx/living1",
+            "mob/clayshinx/living2",
+            "mob/clayshinx/living3"
+        ]
+    },
+"mob.clayskitty.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayskitty/death1",
+            "mob/clayskitty/death2"
+        ]
+    },
+"mob.clayskitty.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayskitty/hurt1",
+            "mob/clayskitty/hurt2",
+            "mob/clayskitty/hurt3"
+        ]
+    },
+"mob.clayskitty.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/clayskitty/living1",
+            "mob/clayskitty/living2",
+            "mob/clayskitty/living3"
+        ]
+    },
+"mob.cujofurfrou.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/cujofurfrou/death1",
+            "mob/cujofurfrou/death2"
+        ]
+    },
+"mob.cujofurfrou.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/cujofurfrou/hurt1",
+            "mob/cujofurfrou/hurt2",
+            "mob/cujofurfrou/hurt3"
+        ]
+    },
+"mob.cujofurfrou.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/cujofurfrou/living1",
+            "mob/cujofurfrou/living2",
+            "mob/cujofurfrou/living3"
+        ]
+    },
+"mob.cuotlekans.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/cuotlekans/death1",
+            "mob/cuotlekans/death2"
+        ]
+    },
+"mob.cuotlekans.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/cuotlekans/hurt1",
+            "mob/cuotlekans/hurt2",
+            "mob/cuotlekans/hurt3"
+        ]
+    },
+"mob.cuotlekans.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/cuotlekans/living1",
+            "mob/cuotlekans/living2",
+            "mob/cuotlekans/living3"
+        ]
+    },
+"mob.darkglassmanectric.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/darkglassmanectric/death1",
+            "mob/darkglassmanectric/death2"
+        ]
+    },
+"mob.darkglassmanectric.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/darkglassmanectric/hurt1",
+            "mob/darkglassmanectric/hurt2",
+            "mob/darkglassmanectric/hurt3"
+        ]
+    },
+"mob.darkglassmanectric.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/darkglassmanectric/living1",
+            "mob/darkglassmanectric/living2",
+            "mob/darkglassmanectric/living3"
+        ]
+    },
+"mob.demonvulpix.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/demonvulpix/death1",
+            "mob/demonvulpix/death2"
+        ]
+    },
+"mob.demonvulpix.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/demonvulpix/hurt1",
+            "mob/demonvulpix/hurt2",
+            "mob/demonvulpix/hurt3"
+        ]
+    },
+"mob.demonvulpix.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/demonvulpix/living1",
+            "mob/demonvulpix/living2",
+            "mob/demonvulpix/living3"
+        ]
+    },
+"mob.doomstoneglaceon.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/doomstoneglaceon/death1",
+            "mob/doomstoneglaceon/death2"
+        ]
+    },
+"mob.doomstoneglaceon.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/doomstoneglaceon/hurt1",
+            "mob/doomstoneglaceon/hurt2",
+            "mob/doomstoneglaceon/hurt3"
+        ]
+    },
+"mob.doomstoneglaceon.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/doomstoneglaceon/living1",
+            "mob/doomstoneglaceon/living2",
+            "mob/doomstoneglaceon/living3"
+        ]
+    },
+"mob.doomstoneleafeon.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/doomstoneleafeon/death1",
+            "mob/doomstoneleafeon/death2"
+        ]
+    },
+"mob.doomstoneleafeon.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/doomstoneleafeon/hurt1",
+            "mob/doomstoneleafeon/hurt2",
+            "mob/doomstoneleafeon/hurt3"
+        ]
+    },
+"mob.doomstoneleafeon.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/doomstoneleafeon/living1",
+            "mob/doomstoneleafeon/living2",
+            "mob/doomstoneleafeon/living3"
+        ]
+    },
+"mob.doomstoneleafeon.step":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/doomstoneleafeon/step1"
+        ]
+    },
+"mob.firecrackerlitten.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/firecrackerlitten/death1"
+        ]
+    },
+"mob.firecrackerlitten.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/firecrackerlitten/hurt1",
+            "mob/firecrackerlitten/hurt2",
+            "mob/firecrackerlitten/hurt3"
+        ]
+    },
+"mob.firecrackerlitten.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/firecrackerlitten/living1",
+            "mob/firecrackerlitten/living2",
+            "mob/firecrackerlitten/living3",
+            "mob/firecrackerlitten/living4",
+            "mob/firecrackerlitten/living5"
+        ]
+    },
+"mob.firecrackerlitten.whine":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/firecrackerlitten/whine1"
+        ]
+    },
+"mob.forcewindeelektrik.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/forcewindeelektrik/death1",
+            "mob/forcewindeelektrik/death2"
+        ]
+    },
+"mob.forcewindeelektrik.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/forcewindeelektrik/hurt1",
+            "mob/forcewindeelektrik/hurt2",
+            "mob/forcewindeelektrik/hurt3"
+        ]
+    },
+"mob.forcewindeelektrik.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/forcewindeelektrik/living1",
+            "mob/forcewindeelektrik/living2",
+            "mob/forcewindeelektrik/living3"
+        ]
+    },
+"mob.foxfirezorua.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/foxfirezorua/death1"
+        ]
+    },
+"mob.foxfirezorua.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/foxfirezorua/hurt1",
+            "mob/foxfirezorua/hurt2",
+            "mob/foxfirezorua/hurt3"
+        ]
+    },
+"mob.foxfirezorua.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/foxfirezorua/living1",
+            "mob/foxfirezorua/living2",
+            "mob/foxfirezorua/living3",
+            "mob/foxfirezorua/living4",
+            "mob/foxfirezorua/living5"
+        ]
+    },
+"mob.foxfirezorua.whine":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/foxfirezorua/whine1"
+        ]
+    },
+"mob.grenadetogepi.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/grenadetogepi/death1",
+            "mob/grenadetogepi/death2"
+        ]
+    },
+"mob.grenadetogepi.explode":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/grenadetogepi/explode1"
+        ]
+    },
+"mob.grenadetogepi.fuse":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/grenadetogepi/fuse1"
+        ]
+    },
+"mob.grenadetogepi.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/grenadetogepi/hurt1",
+            "mob/grenadetogepi/hurt2",
+            "mob/grenadetogepi/hurt3"
+        ]
+    },
+"mob.grenadetogepi.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/grenadetogepi/living1",
+            "mob/grenadetogepi/living2",
+            "mob/grenadetogepi/living3"
+        ]
+    },
+"mob.infesteddeerling.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/infesteddeerling/death1",
+            "mob/infesteddeerling/death2"
+        ]
+    },
+"mob.infesteddeerling.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/infesteddeerling/hurt1",
+            "mob/infesteddeerling/hurt2",
+            "mob/infesteddeerling/hurt3"
+        ]
+    },
+"mob.infesteddeerling.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/infesteddeerling/living1",
+            "mob/infesteddeerling/living2",
+            "mob/infesteddeerling/living3"
+        ]
+    },
+"mob.ionianninetales.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/ionianninetales/death1"
+        ]
+    },
+"mob.ionianninetales.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/ionianninetales/hurt1",
+            "mob/ionianninetales/hurt2",
+            "mob/ionianninetales/hurt3"
+        ]
+    },
+"mob.ionianninetales.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/ionianninetales/living1",
+            "mob/ionianninetales/living2",
+            "mob/ionianninetales/living3",
+            "mob/ionianninetales/living4",
+            "mob/ionianninetales/living5"
+        ]
+    },
+"mob.ionianninetales.whine":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/ionianninetales/whine1"
+        ]
+    },
+"mob.okamiespeon.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamiespeon/death1"
+        ]
+    },
+"mob.okamiespeon.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamiespeon/hurt1",
+            "mob/okamiespeon/hurt2",
+            "mob/okamiespeon/hurt3"
+        ]
+    },
+"mob.okamiespeon.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamiespeon/living1",
+            "mob/okamiespeon/living2",
+            "mob/okamiespeon/living3",
+            "mob/okamiespeon/living4",
+            "mob/okamiespeon/living5"
+        ]
+    },
+"mob.okamiespeon.whine":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamiespeon/whine1"
+        ]
+    },
+"mob.okamisylveon.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamisylveon/death1"
+        ]
+    },
+"mob.okamisylveon.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamisylveon/hurt1",
+            "mob/okamisylveon/hurt2",
+            "mob/okamisylveon/hurt3"
+        ]
+    },
+"mob.okamisylveon.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamisylveon/living1",
+            "mob/okamisylveon/living2",
+            "mob/okamisylveon/living3",
+            "mob/okamisylveon/living4",
+            "mob/okamisylveon/living5"
+        ]
+    },
+"mob.okamisylveon.whine":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamisylveon/whine1"
+        ]
+    },
+"mob.okamiumbreon.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamiumbreon/death1"
+        ]
+    },
+"mob.okamiumbreon.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamiumbreon/hurt1",
+            "mob/okamiumbreon/hurt2",
+            "mob/okamiumbreon/hurt3"
+        ]
+    },
+"mob.okamiumbreon.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamiumbreon/living1",
+            "mob/okamiumbreon/living2",
+            "mob/okamiumbreon/living3",
+            "mob/okamiumbreon/living4",
+            "mob/okamiumbreon/living5"
+        ]
+    },
+"mob.okamiumbreon.whine":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/okamiumbreon/whine1"
+        ]
+    },
+"mob.prototurret.attack":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/prototurret/attack1"
+        ]
+    },
+"mob.proxypyloncarbink.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/proxypyloncarbink/death1",
+            "mob/proxypyloncarbink/death2"
+        ]
+    },
+"mob.proxypyloncarbink.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/proxypyloncarbink/hurt1",
+            "mob/proxypyloncarbink/hurt2",
+            "mob/proxypyloncarbink/hurt3"
+        ]
+    },
+"mob.proxypyloncarbink.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/proxypyloncarbink/living1",
+            "mob/proxypyloncarbink/living2",
+            "mob/proxypyloncarbink/living3"
+        ]
+    },
+"mob.scrubbydarmanitan.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/scrubbydarmanitan/death1",
+            "mob/scrubbydarmanitan/death2"
+        ]
+    },
+"mob.scrubbydarmanitan.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/scrubbydarmanitan/hurt1",
+            "mob/scrubbydarmanitan/hurt2",
+            "mob/scrubbydarmanitan/hurt3"
+        ]
+    },
+"mob.scrubbydarmanitan.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/scrubbydarmanitan/living1",
+            "mob/scrubbydarmanitan/living2",
+            "mob/scrubbydarmanitan/living3"
+        ]
+    },
+"mob.snowsorceressbraixen.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/snowsorceressbraixen/death1",
+            "mob/snowsorceressbraixen/death2"
+        ]
+    },
+"mob.snowsorceressbraixen.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/snowsorceressbraixen/hurt1",
+            "mob/snowsorceressbraixen/hurt2",
+            "mob/snowsorceressbraixen/hurt3"
+        ]
+    },
+"mob.snowsorceressbraixen.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/snowsorceressbraixen/living1",
+            "mob/snowsorceressbraixen/living2",
+            "mob/snowsorceressbraixen/living3"
+        ]
+    },
+"mob.swordiemienshao.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/swordiemienshao/death1",
+            "mob/swordiemienshao/death2"
+        ]
+    },
+"mob.swordiemienshao.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/swordiemienshao/hurt1",
+            "mob/swordiemienshao/hurt2",
+            "mob/swordiemienshao/hurt3"
+        ]
+    },
+"mob.swordiemienshao.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/swordiemienshao/living1",
+            "mob/swordiemienshao/living2",
+            "mob/swordiemienshao/living3"
+        ]
+    },
+"mob.tiberiumgrowlithe.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/tiberiumgrowlithe/death1",
+            "mob/tiberiumgrowlithe/death2"
+        ]
+    },
+"mob.tiberiumgrowlithe.howl":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/tiberiumgrowlithe/howl1"
+        ]
+    },
+"mob.tiberiumgrowlithe.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/tiberiumgrowlithe/hurt1",
+            "mob/tiberiumgrowlithe/hurt2",
+            "mob/tiberiumgrowlithe/hurt3"
+        ]
+    },
+"mob.tiberiumgrowlithe.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/tiberiumgrowlithe/living1",
+            "mob/tiberiumgrowlithe/living2",
+            "mob/tiberiumgrowlithe/living3"
+        ]
+    },
+"mob.vegnagundustox.attack":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/vegnagundustox/attack1"
+        ]
+    },
+"mob.vegnagundustox.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/vegnagundustox/death1",
+            "mob/vegnagundustox/death2"
+        ]
+    },
+"mob.vegnagundustox.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/vegnagundustox/hurt1",
+            "mob/vegnagundustox/hurt2",
+            "mob/vegnagundustox/hurt3"
+        ]
+    },
+"mob.vegnagundustox.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/vegnagundustox/living1",
+            "mob/vegnagundustox/living2",
+            "mob/vegnagundustox/living3"
+        ]
+    },
+"mob.verktoramightyena.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/verktoramightyena/death1",
+            "mob/verktoramightyena/death2"
+        ]
+    },
+"mob.verktoramightyena.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/verktoramightyena/hurt1",
+            "mob/verktoramightyena/hurt2",
+            "mob/verktoramightyena/hurt3"
+        ]
+    },
+"mob.verktoramightyena.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/verktoramightyena/living1",
+            "mob/verktoramightyena/living2",
+            "mob/verktoramightyena/living3"
+        ]
+    },
+"mob.voorstmightyena.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/voorstmightyena/death1",
+            "mob/voorstmightyena/death2"
+        ]
+    },
+"mob.voorstmightyena.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/voorstmightyena/hurt1",
+            "mob/voorstmightyena/hurt2",
+            "mob/voorstmightyena/hurt3"
+        ]
+    },
+"mob.voorstmightyena.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/voorstmightyena/living1",
+            "mob/voorstmightyena/living2",
+            "mob/voorstmightyena/living3"
+        ]
+    },
+"mob.zealotpawniard.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zealotpawniard/death1",
+            "mob/zealotpawniard/death2"
+        ]
+    },
+"mob.zealotpawniard.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zealotpawniard/hurt1",
+            "mob/zealotpawniard/hurt2",
+            "mob/zealotpawniard/hurt3"
+        ]
+    },
+"mob.zealotpawniard.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zealotpawniard/living1",
+            "mob/zealotpawniard/living2",
+            "mob/zealotpawniard/living3"
+        ]
+    },
+"mob.zealotpawniard.spawn":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zealotpawniard/spawn1"
+        ]
+    },
+"mob.zombieflareon.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zombieflareon/death1",
+            "mob/zombieflareon/death2"
+        ]
+    },
+"mob.zombieflareon.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zombieflareon/hurt1",
+            "mob/zombieflareon/hurt2",
+            "mob/zombieflareon/hurt3"
+        ]
+    },
+"mob.zombieflareon.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zombieflareon/living1",
+            "mob/zombieflareon/living2",
+            "mob/zombieflareon/living3"
+        ]
+    },
+"mob.zombieleafeon.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zombieleafeon/death1",
+            "mob/zombieleafeon/death2"
+        ]
+    },
+"mob.zombieleafeon.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zombieleafeon/hurt1",
+            "mob/zombieleafeon/hurt2",
+            "mob/zombieleafeon/hurt3"
+        ]
+    },
+"mob.zombieleafeon.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zombieleafeon/living1",
+            "mob/zombieleafeon/living2",
+            "mob/zombieleafeon/living3"
+        ]
+    },
+"mob.zombieumbreon.death":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zombieumbreon/death1",
+            "mob/zombieumbreon/death2"
+        ]
+    },
+"mob.zombieumbreon.hurt":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zombieumbreon/hurt1",
+            "mob/zombieumbreon/hurt2",
+            "mob/zombieumbreon/hurt3"
+        ]
+    },
+"mob.zombieumbreon.living":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/zombieumbreon/living1",
+            "mob/zombieumbreon/living2",
+            "mob/zombieumbreon/living3"
+        ]
+    },
+"mob.commonsounds.bio":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/commonsounds/bio1"
+        ]
+    },
+"mob.commonsounds.glasswalk4legs":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/commonsounds/glasswalk4legs1"
+        ]
+    },
+"mob.commonsounds.glassfuse":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/commonsounds/glassfuse1"
+        ]
+    },
+"mob.commonsounds.explodingglass":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/commonsounds/explodingglass1",
+            "mob/commonsounds/explodingglass2",
+            "mob/commonsounds/explodingglass3"
+        ]
+    },
+"mob.commonsounds.fireballswoosh":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/commonsounds/fireballswoosh1",
+            "mob/commonsounds/fireballswoosh2",
+            "mob/commonsounds/fireballswoosh3"
+        ]
+    },
+"mob.commonsounds.flash":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/commonsounds/flash1",
+            "mob/commonsounds/flash2"
+        ]
+    },
+"mob.commonsounds.ignite":
+    {
+        "category": "hostile",
+        "sounds":
+        [
+            "mob/commonsounds/ignite1"
+        ]
+    }
+}
